@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap');
+
+
+@import "tailwindcss";
+
+
+.active div{
+  background-color: var(--color-gray-400);
+  color:white;
+}
+
+.prata-regular {
+  font-family: "Prata", serif;
+ 
+}
